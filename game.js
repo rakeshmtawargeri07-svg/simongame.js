@@ -15,7 +15,7 @@ var level = 0;
 
 // Starts the game when any key is pressed
 $(document).keypress(function() {
-
+  {
   // Start only if the game hasn't started already
   if (!started) {
 
